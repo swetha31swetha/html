@@ -1,0 +1,405 @@
+     .row {
+     display: flex;
+     background-color:white;
+       }
+    .col1{
+     background-color: green;
+     width: 100%;
+     height:43px ;
+    }
+    .col2{
+     background-color: rgb(60, 0, 128);
+     width: 50%;
+     height:43px ;
+
+      }
+   .col3{
+     background-color: palevioletred;
+     width: 50%;
+     height:43px ;
+
+      }
+    .col4{
+     background-color: mediumslateblue;
+     width: 30%;
+     height:43px ;
+    }
+    .col5{
+     background-color: rgb(128, 41, 0);
+     width: 30%;
+     height:43px ;
+    }
+    .co6{
+     background-color: grey;
+     width: 30%;
+     height:43px ;
+    }
+    .col7{
+     background-color: gray;
+     width: 25%;
+     height:43px ;
+    }
+    .col8{
+     background-color: pink;
+     width: 25%;
+     height:43px ;
+    }
+    .col9{
+     background-color: skyblue;
+     width: 25%;
+     height:43px ;
+    }
+    .col10{
+     background-color: yellow;
+     width: 25%;
+     height:43px ;
+    }
+    .col11{
+     background-color: rgb(128, 0, 122);
+     width: 20%;
+     height:43px ;
+    }
+    .col12{
+     background-color: rgb(128, 9, 0);
+     width: 20%;
+     height:43px ;
+    }
+    .col13{
+     background-color: rgb(2, 66, 63);
+     width: 20%;
+     height:43px ;
+    }
+    .col14{
+     background-color: rgb(94, 128, 0);
+     width: 20%;
+     height:43px ;
+    }
+    .col15{
+     background-color: grey;
+     width: 20%;
+     height:43px ;
+    }
+    .col16{
+     background-color: fuchsia;
+     width: 20%;
+     height:43px ;
+
+      }    
+    .col17{
+     background-color: black;
+     width: 20%;
+     height:43px ;
+
+      }
+    .col18{
+     background-color: hotpink;
+     width: 20%;
+     height:43px ;
+
+      }
+    .col19{
+     background-color: yellowgreen;
+     width: 20%;
+     height:43px ;
+
+      }
+   .col20{
+    background-color: burlywood;
+    width: 20%;
+    height:43px ;
+     }
+  .col21{
+   background-color: khaki;
+   width: 20%;
+   height:43px ;
+  }
+  .col22{
+   background-color: firebrick;
+   width: 20%;
+   height:43px ;
+  } 
+
+  .col23{
+   background-color: lightblue;
+   width: 20%;
+   height:43px ;
+  }
+  .col24{
+   background-color:darkgoldenrod;
+   width: 20%;
+   height:43px ;
+  }
+  .col25{
+   background-color: darkorchid;
+   width: 20%;
+   height:43px ;
+  }
+  .col26{
+  background-color: rgb(94, 128, 0);
+  width: 20%;
+  height:43px ;
+}
+  .col27{
+   background-color: cornflowerblue;
+   width: 20%;
+   height:43px ;
+  }
+  .col28{
+   background-color:peru;
+   width: 20%;
+   height:43px ;
+  }
+  .col29{
+   background-color:blue;
+   width: 20%;
+   height:43px ;
+  }
+  .col30{
+   background-color:aqua;
+   width: 20%;
+   height:43px ;
+
+   }
+  .col31{
+   background-color:rgb(2, 66, 63);
+   width: 20%;
+   height:43px ;
+  }
+  .col32{
+   background-color:darkcyan;
+   width: 20%;
+   height:43px ;
+  }
+  .col33{
+   background-color:orange;
+   width: 20%;
+   height:43px ;
+  }
+  .col34{
+   background-color:turquoise;
+   width: 20%;
+   height:43px ;
+  }
+  .col35{
+   background-color:violet;
+   width: 20%;
+   height:43px ;
+  }
+  .col36{
+   background-color:hotpink;
+   width: 20%;
+   height:43px ;
+  }
+  .col37{
+   background-color:teal;
+   width: 20%;
+   height:43px ;
+  }
+  .col38{
+    background-color:lawngreen;
+    width: 20%;
+    height:43px ;
+  }
+   .col39{
+    background-color:purple;
+    width: 20%;
+    height:43px ;
+  }
+  
+   .col40{
+    background-color:red;
+    width: 20%;
+    height:43px ;
+
+   }
+   .col41{
+    background-color:brown;
+    width: 20%;
+    height:43px ;
+  }
+   .col42{
+    background-color:skyblue;
+    width: 20%;
+    height:43px ;
+  }
+   
+   .col43{
+    background-color:lightgreen;
+    width: 20%;
+    height:43px ;
+  } 
+   .col44{
+    background-color:darkgoldenrod;
+    width: 20%;
+    height:43px ;
+  }
+   .col45{
+    background-color:navy;
+    width: 20%;
+    height:43px ;
+  }
+   .col46{
+    background-color:cyan;
+    width: 20%;
+    height:43px ;
+  } 
+   .col47{
+    background-color:chocolate;
+    width: 20%;
+    height:43px ;
+  }
+   .col48{
+    background-color:magenta;
+    width: 20%;
+    height:43px ;
+  }
+   .col49{
+    background-color:maroon;
+    width: 20%;
+    height:43px ;
+  } 
+    .col50{
+    background-color:mediumaquamarine;
+    width: 20%;
+    height:43px ;
+  }
+   .col51{
+    background-color:mediumvioletred;
+    width: 20%;
+    height:43px ;
+  }
+   .col52{
+    background-color:mediumseagreen;
+    width: 20%;
+    height:43px ;
+  }
+   .col53{
+    background-color:peru;
+    width: 20%;
+    height:43px ;
+  }
+   .col54{
+    background-color:violet;
+    width: 20%;
+    height:43px ;
+  }
+   .col55{
+    background-color:greenyellow;
+    width: 20%;
+    height:43px ;
+  }
+   .col56{
+    background-color:khaki;
+    width: 20%;
+    height:43px ;
+  }
+   .col57{
+    background-color:lightcoral;
+    width: 20%;
+    height:43px ;
+  }
+   .col58{
+    background-color:mediumorchid;
+    width: 20%;
+    height:43px ;
+  }
+   .col59{
+    background-color:mediumseagreen;
+    width: 20%;
+    height:43px ;
+  }
+   .col60{
+    background-color:firebrick;
+    width: 20%;
+    height:43px ;
+  }
+   .col61{
+    background-color:olive;
+    width: 20%;
+    height:43px ;
+  }
+   .col62{
+    background-color:orange;
+    width: 20%;
+    height:43px ;
+  }
+   .col63{
+    background-color:greenyellow;
+    width: 20%;
+    height:43px ;
+  }
+   .col64{
+    background-color:navajowhite;
+    width: 20%;
+    height:43px ;
+  }
+   .col65{
+    background-color:mediumseagreen;
+    width: 20%;
+    height:43px ;
+  }
+   .col66{
+    background-color:teal;
+    width: 20%;
+    height:43px ;
+  }
+   .col67{
+    background-color:orangered;
+    width: 20%;
+    height:43px ;
+  }
+   .col68{
+    background-color:darkgoldenrod;
+    width: 20%;
+    height:43px ;
+  }
+   .col69{
+    background-color:darkred;
+    width: 20%;
+    height:43px ;
+  }
+   .col70{
+    background-color:salmon;
+    width: 20%;
+    height:43px ;
+  }
+   .col71{
+    background-color:indigo;
+    width: 20%;
+    height:43px ;
+  }
+   .col72{
+    background-color:cornflowerblue;
+    width: 20%;
+    height:43px ;
+  }
+   .col73{
+    background-color:olivedrab;
+    width: 20%;
+    height:43px ;
+  }
+   .col74{
+    background-color:blue;
+    width: 20%;
+    height:43px ;
+   }
+   .col75{
+    background-color:darkgreen;
+    width: 20%;
+    height:43px ;
+  }
+   .col76{
+    background-color:burlywood;
+    width: 20%;
+    height:43px ;
+  }
+   .col77{
+    background-color:black;
+    width: 20%;
+    height:43px ;
+  }
+   .col78{
+    background-color:magenta;
+    width: 20%;
+    height:43px ;
+  }
